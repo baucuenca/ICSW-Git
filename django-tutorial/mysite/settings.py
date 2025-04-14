@@ -28,7 +28,7 @@ DEBUG = True
 ALLOWED_HOSTS = []
 
 
-# Application definition
+# Application definitionthese
 
 INSTALLED_APPS = [
     'django.contrib.admin',
